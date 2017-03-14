@@ -19,3 +19,4 @@ npm run build --report
 ```
 
 Arquivos para teste localmente se encontra na pasta <code>dist</code> (Só funciona em http://. Não funciona em File://).
+<a href="http://iorder.com.br/VueJsRealTime/" target="_BLANK">Faça um teste agora!</a>
