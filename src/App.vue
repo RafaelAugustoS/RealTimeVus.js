@@ -66,11 +66,7 @@ import Firebase from 'firebase'
 import toastr from 'toastr'
 
 let config = {
-  apiKey: "AIzaSyDndWP7zoxXPs9q6RBHLhzhW5rDkpRYbe8",
-  authDomain: "vue-js-aedf5.firebaseapp.com",
-  databaseURL: "https://vue-js-aedf5.firebaseio.com",
-  storageBucket: "vue-js-aedf5.appspot.com",
-  messagingSenderId: "197493229388"
+  // Configuração do BD
 }
 
 let app = Firebase.initializeApp(config);
